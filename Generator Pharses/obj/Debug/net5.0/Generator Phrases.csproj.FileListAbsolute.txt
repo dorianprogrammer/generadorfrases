@@ -1,0 +1,12 @@
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\bin\Debug\net5.0\Generator Phrases.deps.json
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\bin\Debug\net5.0\Generator Phrases.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\bin\Debug\net5.0\ref\Generator Phrases.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\bin\Debug\net5.0\Generator Phrases.pdb
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\Generator Phrases.csprojAssemblyReference.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\Generator Phrases.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\Generator Phrases.AssemblyInfoInputs.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\Generator Phrases.AssemblyInfo.cs
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\Generator Phrases.csproj.CoreCompileInputs.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\Generator Phrases.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\ref\Generator Phrases.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Pharses\obj\Debug\net5.0\Generator Phrases.pdb

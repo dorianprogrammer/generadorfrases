@@ -1,0 +1,21 @@
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrase UI.exe
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrase UI.deps.json
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrase UI.runtimeconfig.json
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrase UI.runtimeconfig.dev.json
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrase UI.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\ref\Generator Phrase UI.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrase UI.pdb
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.csprojAssemblyReference.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator_Phrase_UI.MainForn.resources
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.csproj.GenerateResource.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.AssemblyInfoInputs.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.AssemblyInfo.cs
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.csproj.CoreCompileInputs.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.csproj.CopyComplete
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\ref\Generator Phrase UI.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.pdb
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\obj\Debug\net5.0-windows\Generator Phrase UI.genruntimeconfig.cache
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrases.dll
+F:\.NET workplace\Lab - Lenguajes\Generator Pharses\Generator Phrase UI\bin\Debug\net5.0-windows\Generator Phrases.pdb
